@@ -1,0 +1,6 @@
+test
+^Z
+
+exit
+clear
+
